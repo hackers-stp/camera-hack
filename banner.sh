@@ -3,26 +3,27 @@ trap 'printf "\n";stop' 2
 
 
 banner2(){
-printf " \e[1;92m           _                   _                      \e[0m\e[1;77m          _           \e[0m\n"
-printf " \e[1;92m          | |__    __ _   ___ | | __  ___  _ __  ___  \e[0m\e[1;77m    ___  | |_   _ __  \e[0m\n"
-printf " \e[1;92m          | '_ \  / _  | / __|| |/ / / _ \| '__|/ __| \e[0m\e[1;77m   / __| | __| | '_ \ \e[0m\n"
-printf " \e[1;92m          | | | || (_| || (__ |   < |  __/| |   \__ \ \e[0m\e[1;77m   \__ \ | |_  | |_) |\e[0m\n"
-printf " \e[1;92m          |_| |_| \__ _| \___||_|\_\ \___||_|   |___/ \e[0m\e[1;77m   |___/  \__| | .__/ \e[0m\n"
-printf " \e[1;92m                                                      \e[0m\e[1;77m               |_|    \e[0m\n"
+printf " \e[1;92m _                   _                      \e[0m\e[1;77m          _           \e[0m\n"
+printf " \e[1;92m| |__    __ _   ___ | | __  ___  _ __  ___  \e[0m\e[1;77m    ___  | |_   _ __  \e[0m\n"
+printf " \e[1;92m| '_ \  / _  | / __|| |/ / / _ \| '__|/ __| \e[0m\e[1;77m   / __| | __| | '_ \ \e[0m\n"
+printf " \e[1;92m| | | || (_| || (__ |   < |  __/| |   \__ \ \e[0m\e[1;77m   \__ \ | |_  | |_) |\e[0m\n"
+printf " \e[1;92m|_| |_| \__ _| \___||_|\_\ \___||_|   |___/ \e[0m\e[1;77m   |___/  \__| | .__/ \e[0m\n"
+printf " \e[1;92m                                            \e[0m\e[1;77m               |_|    \e[0m\n"
 
 
 printf "\n"
-printf "          \e[1;77m               .:.:\e[0m\e[1;93m Grab webcam shots by link \e[0m\e[1;77m:.:.\e[0m\n"
-printf "          \e[1;77m[\e[1;93m::\e[0m\e[1;77m]                 Coded by @hackers_stp                 \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
-printf "          \e[1;77m[\e[1;93m::\e[0m\e[1;77m]          YouTube Channel: zero error Channel          \e[0m\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
-printf "          \e[1;77m[\e[1;93m::\e[0m\e[1;77m]     Website: https://www.hackers-stp.blogspot.com     \e[0m\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
+printf "\e[1;77m               .:.:\e[0m\e[1;93m Grab webcam shots by link \e[0m\e[1;77m:.:.\e[0m\n"
+printf "\e[1;77m[\e[1;93m::\e[0m\e[1;77m]                 Coded by @hackers_stp                 \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
+printf "\e[1;77m[\e[1;93m::\e[0m\e[1;77m]        GitHub: https://github.com/hackers-stp         \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
+printf "\e[1;77m[\e[1;93m::\e[0m\e[1;77m]          YouTube Channel: zero error Channel          \e[0m\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
+printf "\e[1;77m[\e[1;93m::\e[0m\e[1;77m]     Website: https://www.hackers-stp.blogspot.com     \e[0m\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
 
 printf "                            \n"
-printf "                  \e[1;91m Disclaimer: This tool is designed for security\n"
-printf "                  testing in an authorized simulated cyberattack\n"
-printf "                  Attacking targets without prior mutual consent\n"
-printf "                  is illegal!\n \n \n"
-printf "              \e[1;92m NOTE: This tool is designed Only for Education Purpose\n"
+printf "\e[1;91m Disclaimer: This tool is designed for security\n"
+printf "testing in an authorized simulated cyberattack\n"
+printf "Attacking targets without prior mutual consent\n"
+printf "is illegal!\n \n \n"
+printf "\e[1;92m NOTE: This tool is designed Only for Education Purpose\n"
 
 printf "\n"
 }
