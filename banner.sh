@@ -18,26 +18,26 @@ printf "\e[1;92m              |___/  \__| | .__/ \e[0m\n"
 printf "\e[1;92m                          |_|    \e[0m\n"
 
 
-printf "\e[1;34m                          _                   _     \e[0m\n"
-printf "\e[1;34m  ___  __ _  _ __ ___    | |__    __ _   ___ | | __ \e[0m\n"
-printf "\e[1;34m / __|/ _  || '_   _ \   | '_ \  / _  | / __|| |/ / \e[0m\n"
-printf "\e[1;34m| (__| (_| || | | | | |__| | | || (_| || (__ |   <  \e[0m\n"
-printf "\e[1;34m \___|\__,_||_| |_| |_|  |_| |_| \__,_| \___||_|\_\ \e[0m\n"
+printf "\e[1;34m                        _                   _     \e[0m\n"
+printf "\e[1;34m  ___  __ _  _ __ ___  | |__    __ _   ___ | | __ \e[0m\n"
+printf "\e[1;34m / __|/ _  || '_   _ \ | '_ \  / _  | / __|| |/ / \e[0m\n"
+printf "\e[1;34m| (__| (_| || | | | | || | | || (_| || (__ |   <  \e[0m\n"
+printf "\e[1;34m \___|\__,_||_| |_| |_||_| |_| \__,_| \___||_|\_\ \e[0m\n"
 
 
 printf "\n"
-printf "\e[1;77m.:.:\e[0m\e[1;93m Grab webcam shots by link \e[0m\e[1;77m:.:.\e[0m\n"
-printf "\e[1;77m[\e[1;93m::\e[0m\e[1;77m]Coded by @hackers_stp                    \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
-printf "\e[1;77m[\e[1;93m::\e[0m\e[1;77m]GitHub: https://github.com/hackers-stp   \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
-printf "\e[1;77m[\e[1;93m::\e[0m\e[1;77m]YouTube Channel: zero error Channel      \e[0m\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
-printf "\e[1;77m[\e[1;93m::\e[0m\e[1;77m]Website: https://hackers-stp.blogspot.com\e[0m\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
+printf "\e[1;77m.:.:\e[0m\e[1;93m        Grab webcam shots by link       \e[0m\e[1;77m:.:.\e[0m\n"
+printf "\e[1;77m[\e[1;93m::\e[0m\e[1;77m]Coded by @hackers_stp                   \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
+printf "\e[1;77m[\e[1;93m::\e[0m\e[1;77m]GitHub: https://github.com/hackers-stp  \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
+printf "\e[1;77m[\e[1;93m::\e[0m\e[1;77m]YouTube Channel: zero error Channel     \e[0m\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
+printf "\e[1;77m[\e[1;93m::\e[0m\e[1;77m]Website:https://hackers-stp.blogspot.com\e[0m\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
 
 printf "                            \n"
 printf "\e[1;91mDisclaimer: This tool is designed for security\n"
 printf "testing in an authorized simulated cyberattack\n"
 printf "Attacking targets without prior mutual consent\n"
 printf "is illegal!\n \n \n"
-printf "\e[1;92m NOTE: This tool is designed Only for Education Purpose\n"
+printf "\e[1;92mNOTE: This tool is designed Only for Education Purpose\n"
 
 printf "\n"
 }
