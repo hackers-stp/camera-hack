@@ -55,7 +55,7 @@ printf "\e[1;91mDisclaimer: This tool is designed for security\n"
 printf "testing in an authorized simulated cyberattack\n"
 printf "Attacking targets without prior mutual consent\n"
 printf "is illegal!\n \n \n"
-printf "\e[1;92mNOTE: This tool is designed Only for Education Purpose\n"
+printf "\e[1;92mNOTE: This tools is designed Only for Education Purpose\n"
 
 printf "\n"
 }
