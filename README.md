@@ -1,8 +1,8 @@
 # camera-hack
 
-[![YouTube]](https://youtube.com/c/zeroerrorchannel)
+[![YouTube](https://badges.youtube.com/termux/termux.svg)](https://youtube.com/c/zeroerrorchannel)
 [![InstaGram]](https://instagram.com/hackers_stp)
-[![Telegram]](https://telegram.com/hackers_stp)
+[![Telegram]](https://t.me/hackers_stp)
 
 [Termux](https://termux.com) is an Android terminal application and Linux environment.
 
