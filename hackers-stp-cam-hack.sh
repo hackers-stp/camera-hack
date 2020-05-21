@@ -1,6 +1,20 @@
 
 trap 'printf "\n";stop' 2
 
+trap user_interrupt SIGINT    #sigint is used to if you pressed ctrl + c then the function will work ,,, kill a process
+trap user_interrupt SIGTSTP   #sigtstp is used to if user pressed ctrl + z then the function will work ,,, shell is used to suspent a process
+
+user_interrupt(){
+        printf "\e[0m\n"
+        printf "\e[0m\e[1;36m\t        CTRL + C Pressed !!\n"
+        sleep 2
+        printf "\n"
+        printf "\e[1m\e[30;45;5;92m Thank for Using the Script...  For More Visit: \e[0m \n \n"
+        printf "   \e[91mCoded by @hackers_stp [instagram/telegram]\e[0m \n"
+        printf "    \e[92mGitHub: [https://github.com/hackers-stp]\e[0m\n \n"
+        printf "       \e[1m\e[30;45;5;42mCome Back For More Hacking Script\e[0m \n \n"
+        exit 1
+}
 
 banner2(){
 printf " \e[1;92m _                   _                      \e[0m\n"
